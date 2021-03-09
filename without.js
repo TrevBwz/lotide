@@ -43,3 +43,5 @@ assertArraysEqual(filtered, ["hello", "world"]);
 
 // will output;
 // Assertion Passed: hello,world === hello,world
+
+module.exports = without;

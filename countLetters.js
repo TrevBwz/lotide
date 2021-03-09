@@ -24,3 +24,5 @@ return returnLetters;
 
 
 // assertEqual("Lighthouse in the house");
+
+module.exports = countLetters;
